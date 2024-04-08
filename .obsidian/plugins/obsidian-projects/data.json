@@ -1,0 +1,144 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {
+        "status": {
+          "options": []
+        }
+      },
+      "defaultName": "",
+      "templates": [
+        "Templates/project-note.md"
+      ],
+      "excludedNotes": [],
+      "isDefault": true,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Work",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "Work",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": [
+              {
+                "field": "status",
+                "operator": "is-not",
+                "enabled": true,
+                "value": "done"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "801299d4-6fac-4c84-b048-e26efb161b4b",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "includeFields": [
+              "tags"
+            ],
+            "groupByField": "status",
+            "columns": {
+              "todo": {
+                "weight": 0,
+                "records": [
+                  "Work/Possible work/Timeline QoL.md",
+                  "Work/Possible work/404s on new frontend deployments.md",
+                  "Work/Possible work/NCD certificate - unable to generate automatically.md",
+                  "Work/Possible work/Add calculated monthly discount when using discount bar to apply a discount for the user.md",
+                  "Work/Possible work/Renewal Discount - Not clear that APR is applied to monthly price and not Yearly.md",
+                  "Work/Possible work/Capture exceptions when backend responses break expected results.md",
+                  "Work/Possible work/Agent portal - Change tsconfig to strict mode.md",
+                  "Work/Possible work/undefined quotes screen.md",
+                  "Work/Possible work/AP - failure to redirect to url after logging in.md"
+                ]
+              },
+              "No status": {
+                "weight": 1,
+                "records": []
+              },
+              "done": {
+                "weight": 2
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": [
+              {
+                "color": "#ff80e3",
+                "condition": {
+                  "field": "epic",
+                  "operator": "has-any-of",
+                  "enabled": true,
+                  "value": "[\"LoyaltyScheme\"]"
+                }
+              }
+            ]
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "due",
+                "order": "asc",
+                "enabled": true
+              },
+              {
+                "field": "created",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "fbd33417-3d7b-4434-bb8b-78c97e09a9fe",
+          "name": "Board",
+          "type": "board"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "1d4e9680-ff9b-4342-86a4-351079352d68",
+          "name": "Calendar",
+          "type": "calendar"
+        }
+      ],
+      "id": "f4abb1cc-fca9-4e0e-8daa-8d08b210654b",
+      "name": "Backlog"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "commands": [
+      {
+        "project": "f4abb1cc-fca9-4e0e-8daa-8d08b210654b"
+      }
+    ],
+    "linkBehavior": "open-editor"
+  }
+}

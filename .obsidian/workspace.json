@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "2b2bc4f828d462ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "b12c1ee0b556d07f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e895297b897be31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Marsh/Knowledge/Glossary-Acroynms-Initialism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9028128a14479fe0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Possible work/Capture exceptions when backend responses break expected results.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "faaeff0a9345a148",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/SDP -> SDPC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0eeb3b8cbc1febb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d432891357f653e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6218ec71f49d8597",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c156576b209a4677",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "01b23977f7e43d06",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "1641885047a7aaf5",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a4ac49b36911686",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8ecb65c66ee96c7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Work/Possible work/Capture exceptions when backend responses break expected results.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6ad9f735276344cd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Work/Possible work/Capture exceptions when backend responses break expected results.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "890ce51b4b8505bd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "364132d02335c636",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Work/Possible work/Capture exceptions when backend responses break expected results.md"
+              }
+            }
+          },
+          {
+            "id": "a9d4ee62703ed60a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-projects:Open projects": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "9028128a14479fe0",
+  "lastOpenFiles": [
+    "Work/Possible work/NCD certificate - unable to generate automatically.md",
+    "Work/Possible work/Renewal Discount - Not clear that APR is applied to monthly price and not Yearly.md",
+    "Work/Possible work/Capture exceptions when backend responses break expected results.md",
+    "Work/Possible work/Add calculated monthly discount when using discount bar to apply a discount for the user.md",
+    "Work/Possible work/Agent portal - Change tsconfig to strict mode.md",
+    "Work/Possible work/AP - failure to redirect to url after logging in.md",
+    "Work/Possible work/Timeline QoL.md",
+    "Work/Possible work/undefined quotes screen.md",
+    "Work/LS (Loyalty Scheme)/Spiking LS work.md",
+    "Work/SDP -> SDPC.md",
+    "Work/Setup backend AWS.md",
+    "Marsh/Knowledge/Glossary-Acroynms-Initialism.md",
+    "Work/LS (Loyalty Scheme)/HTTP Contracts.md",
+    "Work/Possible work/404s on new frontend deployments.md",
+    "Marsh/Knowledge/Key People.md",
+    "Templates/project-note.md",
+    "Possible Probation goals.md",
+    "Dailies/24-04-07.md",
+    "Work/Untitled.md",
+    "Work/test3.md",
+    "Templates/daily.md",
+    "Work/new note.md",
+    "Work/test.md",
+    "Work/test2.md",
+    "Marsh/Knowledge/Creating Quote.md",
+    "First month.md",
+    "Marsh",
+    "Marsh/Knowledge",
+    "Untitled.canvas",
+    "Work",
+    "assets/Screenshot 2024-03-18 at 16.27.58.png",
+    "assets/Screenshot 2024-03-18 at 16.21.35.png",
+    "Marsh/Demos",
+    "Work/LS (Loyalty Scheme)",
+    "TeamWork",
+    "assets/Pasted image 20240313172708.png",
+    "assets/Screenshot 2024-03-12 at 14.07.23.png",
+    "assets",
+    "Work/Possible work",
+    "Templates",
+    "Dailies"
+  ]
+}
