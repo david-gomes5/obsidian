@@ -1,5 +1,7 @@
 I use obsidian mostly as a todo + daily note taking app.
 
+This is the barebones of my obsidian setup without the private notes.
+
 ## Required obsidian plugins to use the templates
 - **Tasks**: [obsidian://show-plugin?id=obsidian-tasks-plugin](obsidian://show-plugin?id=obsidian-tasks-plugin) ([docs](https://publish.obsidian.md/tasks/Introduction))
 - **Templater**: [obsidian://show-plugin?id=obsidian-tasks-plugin](obsidian://show-plugin?id=templater-obsidian) ([docs](https://silentvoid13.github.io/Templater/introduction.html))
